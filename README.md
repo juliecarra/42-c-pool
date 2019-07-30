@@ -22,3 +22,6 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex0
 <h3><b>C 03</b></h3>
 <p>You have been graded 75 on C Piscine C 03:
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Segmentation fault</p>
+<h3><b>C 04</b></h3>
+<p>You have been graded 70 on C Piscine C 04:
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: Nothing turned in | ex05: Nothing turned in</p>
