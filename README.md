@@ -16,3 +16,6 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex0
 <p>You have been graded 70 on C Piscine C 01:
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: Does not compile | ex08: OK<br />
 <i><b>ex07 has been corrected.</b></i></p>
+<h3><b>C 02</b></h3>
+<p>You have been graded 65 on C Piscine C 02:
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: Does not compile | ex11: Nothing turned in | ex12: Nothing turned in</p>
