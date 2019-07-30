@@ -1,0 +1,5 @@
+Credentials cache: API:33C9AD3C-88C2-472D-B4CC-BACE89393730
+        Principal: jucarra@42.FR
+
+  Issued                Expires               Principal
+Jul  3 16:12:00 2019  Jul 10 16:12:00 2019  krbtgt/42.FR@42.FR
