@@ -12,11 +12,11 @@ ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: KO | ex0
 <h3><b>C 00 (succeeded)</b></h3>
 <p>You have been graded 100 on C Piscine C 00:
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK</p>
-<h3><b>C 01(succeeded)</b></h3>
+<h3><b>C 01 (succeeded)</b></h3>
 <p>You have been graded 70 on C Piscine C 01:
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: Does not compile | ex08: OK<br />
 <i><b>ex07 has been corrected.</b></i></p>
-<h3><b>C 02(succeeded)</b></h3>
+<h3><b>C 02 (succeeded)</b></h3>
 <p>You have been graded 65 on C Piscine C 02:
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: Does not compile | ex11: Nothing turned in | ex12: Nothing turned in</p>
 <h3><b>C 03 (succeeded)</b></h3>
@@ -34,7 +34,7 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK</p>
 <h3><b>C 07 (succeeded)</b></h3>
 <p>You have been graded 60 on C Piscine C 07:
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: Nothing turned in | ex05: Nothing turned in</p>
-<h3><b>C 08(succeeded)</b></h3>
+<h3><b>C 08 (succeeded)</b></h3>
 <p>You have been graded 100 on C Piscine C 08:
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK</p>
 <h3><b>C 09 (failed)</b></h3>
