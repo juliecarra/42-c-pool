@@ -25,3 +25,12 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Segmentation fault<
 <h3><b>C 04</b></h3>
 <p>You have been graded 70 on C Piscine C 04:
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: Nothing turned in | ex05: Nothing turned in</p>
+<h3><b>C 05</b></h3>
+<p>You have been graded 60 on C Piscine C 05:
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: Does not compile | ex08: Nothing turned in</p>
+<h3><b>C 06</b></h3>
+<p>You have been graded 100 on C Piscine C 06:
+ex00: OK | ex01: OK | ex02: OK | ex03: OK</p>
+<h3><b>C 07</b></h3>
+<p>You have been graded 60 on C Piscine C 07:
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: Nothing turned in | ex05: Nothing turned in</p>
