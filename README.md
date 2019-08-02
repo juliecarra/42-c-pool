@@ -40,3 +40,6 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK</p>
 <h3><b>C 09 (failed)</b></h3>
 <p>You have been graded 0 on C Piscine C 09:
 ex00: KO | ex01: OK | ex02: OK</p>
+<hr />
+<h3><b>Exam 00 (succeeded)</b></h3>
+<p>Final grade: 48/100</p>
