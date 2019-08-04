@@ -43,3 +43,11 @@ ex00: KO | ex01: OK | ex02: OK</p>
 <hr />
 <h3><b>Exam 00 (succeeded)</b></h3>
 <p>Final grade: 48/100</p>
+<h3><b>Exam 01 (succeeded)</b></h3>
+<p>Final grade: 32/100</p>
+<h3><b>Exam 02 (succeeded)</b></h3>
+<p>Final grade: 42/100</p>
+<h3><b>Exam Final (succeeded)</b></h3>
+<p>Final grade: 42/100</p>
+
+
